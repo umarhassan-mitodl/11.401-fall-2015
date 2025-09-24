@@ -1,0 +1,34 @@
+leftnav:
+- identifier: 07db7cd6-b5e5-3ebd-5a5c-1e2cfa2100b2
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4ec4ad8c-f379-e05e-6e50-bfaa1a27eea6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: b6f78d12-65ab-d167-4bea-c85dbc0ae277
+  name: Readings
+  pageRef: /pages/readings/readings
+  weight: 30
+- identifier: d8ad55f0-3b64-4474-b2fb-60b7208bf6b6
+  name: Recommend Readings
+  pageRef: /pages/readings/recommend-readings
+  parent: b6f78d12-65ab-d167-4bea-c85dbc0ae277
+  weight: 40
+- identifier: cc4321dc-fcc4-3004-0b83-d984c96cdd10
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 1eb98b1a-acc1-36c3-1713-1feb52c974e1
+  name: Study Guides
+  pageRef: /pages/study-guides
+  weight: 60
+- identifier: fac55f59-0f19-03f4-2dd7-3cf8a36d59f4
+  name: Guest Video Lecture
+  pageRef: /video_galleries/guest-video-lecture
+  weight: 70
+- identifier: 3aa5b284-988a-3d55-e850-966ecb4607c2
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
