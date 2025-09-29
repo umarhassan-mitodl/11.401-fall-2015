@@ -5,6 +5,8 @@ description: This resource contains information regarding introduction to housin
 file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/27382f59521fa0c00b0c5d1bd015ebe3_MIT11_401F15_Effective.pdf
 file_size: 197197
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

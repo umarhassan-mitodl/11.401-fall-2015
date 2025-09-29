@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/643ad90b8e7330728b497d9cde6a3781_uMbkHpyKuWU.srt
 file_size: 49360
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

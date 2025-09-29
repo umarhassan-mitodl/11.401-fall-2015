@@ -5,6 +5,8 @@ description: This resource contains information regarding introduction to housin
 file: /courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/054a464ef773963902aca8533e14b4cc_MIT11_401F15_Checklist.pdf
 file_size: 181975
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

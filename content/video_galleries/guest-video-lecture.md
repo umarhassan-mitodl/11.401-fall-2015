@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This section contains a guest video lecture by Prof. Lawrence Vale who
   discusses public housing and the displacement of the poor in the United States.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

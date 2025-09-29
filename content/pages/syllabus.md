@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, class participation and assignments, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Lectures: 2 session / week, 1.5 hours / session
 Course Overview
 ---------------
 
-This course provides students with a critical introduction to: social and economic inequality in America; equitable development as a response framework for planners; social capital and community building as planning concepts; and the history, development, and current prospects of the fields of housing (with an emphasis on affordability and inclusion) and local economic development. We consider multiple scales but primarily the neighborhood, city / town, and metro region. We will explore contextual factors that continue to define these fields: The often limited scale and scope of intervention relative to the challenges (including: persistent unemployment of less skilled workers, discrimination based on race and other factors, mass incarceration, increasing income and wealth disparities, climate change, and more); frequent lack of agreement on specific goals and operating models; political isolation of the poor and lack of steady financial support; and uneven operating capacity, hard-to-measure impacts, and other persistent barriers to effective implementation of policies and programs. Throughout the course we will highlight the importance of creativity, innovation and strategic leverage, both political and programmatic, in light of the factors mentioned above. Finally, the course helps students formulate a professional development agenda for themselves, for use at {{% resource_link "d5471a59-2aa1-4fee-b7c2-7559789ae738" "The Department of Urban Studies & Planning" %}} and beyond.
+This course provides students with a critical introduction to: social and economic inequality in America; equitable development as a response framework for planners; social capital and community building as planning concepts; and the history, development, and current prospects of the fields of housing (with an emphasis on affordability and inclusion) and local economic development. We consider multiple scales but primarily the neighborhood, city / town, and metro region. We will explore contextual factors that continue to define these fields: The often limited scale and scope of intervention relative to the challenges (including: persistent unemployment of less skilled workers, discrimination based on race and other factors, mass incarceration, increasing income and wealth disparities, climate change, and more); frequent lack of agreement on specific goals and operating models; political isolation of the poor and lack of steady financial support; and uneven operating capacity, hard-to-measure impacts, and other persistent barriers to effective implementation of policies and programs. Throughout the course we will highlight the importance of creativity, innovation and strategic leverage, both political and programmatic, in light of the factors mentioned above. Finally, the course helps students formulate a professional development agenda for themselves, for use at [The Department of Urban Studies & Planning](https://dusp.mit.edu/) and beyond.
 
 Prerequisites
 -------------
