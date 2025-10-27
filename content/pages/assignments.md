@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides guidelines and instructions for the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,7 +35,7 @@ Final Assignment - Team Project Briefing
 
 ### Sample Memos
 
-*   "[Winston Churchill on "Brevity"](http://www.leadingvisually.com/2012/11/churchill-on-brevity.html)."
+*   "{{% resource_link "d8f5a648-d002-4636-9876-b9c4c299b27a" "Winston Churchill on \"Brevity\"" %}}."
 *   {{% resource_link 879305f8-6ef0-42bf-212a-3d7900ddf2d1 "\"Best Practices for Tight-Market Cities Considering Expressway Removal.\" (PDF)" %}} - Sample effective student memo. (Courtesy of MIT students. Used with permission.)
 
 _Resources on Briefings_ (Courtesy of Xavier de Souza Briggs. Used with permission.)
