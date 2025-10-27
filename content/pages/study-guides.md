@@ -112,7 +112,7 @@ Housing as a market good: Gentrification and fair housing.
 
 Public housing, income concentration, and mixed-income housing.
 
-Guest: [Larry Vale](https://dusp.mit.edu/people/lawrence-vale), Ford Professor of Urban Design and Planning at MIT.
+Guest: {{% resource_link "29a41188-58df-4cfb-934e-4d666373c995" "Larry Vale" %}}, Ford Professor of Urban Design and Planning at MIT.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "d2fcd0ad-1e02-0627-6016-d3549429c6eb" "Session 14 Study Guide (PDF)" %}}
@@ -154,7 +154,7 @@ Workforce development and cooperative enterprise.
 
 Job quality and upgrading.
 
-Guest: [Paul Osterman](http://web.mit.edu/osterman/www/), member of the Department of Urban Studies & Planning at MIT.
+Guest: {{% resource_link "8deb0292-ac13-49dd-b745-86dff72f1c41" "Paul Osterman" %}}, member of the Department of Urban Studies & Planning at MIT.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "b97e2a9a-bcbb-c0e1-3ef0-b970e81a7b01" "Session 20 Study Guide (PDF)" %}}
@@ -164,7 +164,7 @@ Guest: [Paul Osterman](http://web.mit.edu/osterman/www/), member of the Departme
 
 Entrepreneurship and business development.
 
-Guest: [Karl Seidman](https://ilp.mit.edu/node/52150), Senior Lecturer in Economic Development, MPP Harvard.
+Guest: {{% resource_link "113665b6-3182-447c-8bba-1d41b5224c28" "Karl Seidman" %}}, Senior Lecturer in Economic Development, MPP Harvard.
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "28f111c6-6b7e-4a67-d3cd-8c76927c4192" "Session 21 Study Guide (PDF)" %}}

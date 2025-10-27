@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the schedule of course topics, activities, guests,
   and assignments.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -114,7 +112,7 @@ Housing as a market good: Gentrification and fair housing.
 
 Public housing, income concentration, and mixed-income housing.
 
-Guest: [Larry Vale](https://dusp.mit.edu/people/lawrence-vale), Ford Professor of Urban Design and Planning at MIT.
+Guest: {{% resource_link "29a41188-58df-4cfb-934e-4d666373c995" "Larry Vale" %}}, Ford Professor of Urban Design and Planning at MIT.
 
 {{< tdclose >}}{{< tdopen >}}
 Detailed team problem statement due one day after Session 14
@@ -156,7 +154,7 @@ Workforce development and cooperative enterprise.
 
 Job quality and upgrading.
 
-Guest: [Paul Osterman](http://web.mit.edu/osterman/www/), member of the Department of Urban Studies & Planning at MIT.
+Guest: {{% resource_link "8deb0292-ac13-49dd-b745-86dff72f1c41" "Paul Osterman" %}}, member of the Department of Urban Studies & Planning at MIT.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -166,7 +164,7 @@ Guest: [Paul Osterman](http://web.mit.edu/osterman/www/), member of the Departme
 
 Entrepreneurship and business development.
 
-Guest: [Karl Seidman](https://ilp.mit.edu/node/52150), Senior Lecturer in Economic Development, MPP Harvard.
+Guest: {{% resource_link "113665b6-3182-447c-8bba-1d41b5224c28" "Karl Seidman" %}}, Senior Lecturer in Economic Development, MPP Harvard.
 
 {{< tdclose >}}{{< tdopen >}}
  
